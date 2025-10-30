@@ -1,6 +1,8 @@
 # Vexenium Raider - Raid server without admin!
 Vexenium Raider can send messages and blame users!
 Create bot, start script, and use commands /vex (for raid) and /bl (for blame user)
+
+
 Install requirements:
 ```bash
 pip install discord.py
